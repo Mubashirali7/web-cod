@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(17, 16, 16);
+    text-align: center;
+ }
+ h1{
+     background-color: rgb(168, 169, 248);
+     width: 1000px;
+     text-align: center;
+     margin: 0 auto;
+ 
+ }
+ 
+ h2{
+     color: rgb(134, 13, 13);
+     display: inline-block;
+     width: 100px;
+     background-color: rgb(236, 17, 17);
+ }
+
+
+
+
+
+
